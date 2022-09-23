@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Logout" time="73.386" tests="3" failures="0" errors="0">
+   <testsuite name="Logout" tests="3" failures="0" errors="0" time="73.386" skipped="0" timestamp="2022-09-12 15:51:01" hostname="cristidragota - localhost" id="Test Suites/Logout">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/cristidragota/Katalon Studio/My First Web UI Project/Reports/20220912_155052/Logout/20220912_155052"/>
+         <property name="logFiles" value="/Users/cristidragota/Katalon Studio/My First Web UI Project/Reports/20220912_155052/Logout/20220912_155052/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="cristidragota - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.4.1.208"/>
+         <property name="browser" value="Chrome 105.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="ae30e84f8bd5ca146b6b6490b76dc590"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Logout - Check elements displayed" time="30.375" classname="Test Cases/Logout - Check elements displayed" status="PASSED">
+         <system-out><![CDATA[2022-09-12 15:51:01 - [TEST_CASE][PASSED] - Test Cases/Logout - Check elements displayed: Test Cases/Logout - Check elements displayed
+
+2022-09-12 15:51:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login - Valid"), [:], CONTINUE_ON_FAILURE): Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:51:02 - [TEST_CASE][PASSED] - Test Cases/Login - Valid: Test Cases/Login - Valid
+
+2022-09-12 15:51:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-12 15:51:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-12 15:51:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-12 15:51:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-12 15:51:08 - [TEST_STEP][PASSED] - navigateToUrl("https://data.dev.healios.care/login"): Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:51:15 - [MESSAGE][PASSED] - Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:51:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Healios Platform/input_Email_email"), "pasha.madjar@healios.io"): Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:51:18 - [MESSAGE][PASSED] - Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:51:18 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Healios Platform/input_Password___BVID__30"), "2owp8UsT8kUYhon1eM39HA=="): Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:51:19 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:51:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/button_Log In")): Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:51:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:51:20 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar"), "Welcome Pasha Madjar!"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:51:23 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:51:23 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/span_Home"), "Home"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:51:26 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:51:26 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:51:26 - [TEST_STEP][PASSED] - click(findTestObject("Page_Healios Platform/span_Pasha Madjar")): Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:51:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:51:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/span_Logout")): Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:51:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:51:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Healios Platform/div_Logout"), 0): Object 'Object Repository/Page_Healios Platform/div_Logout' is present
+
+2022-09-12 15:51:28 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-09-12 15:51:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/div_Logout' is present
+
+2022-09-12 15:51:28 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Page_Healios Platform/div_Logout Are you sure you want to Log out_bfd6cc"), "Are you sure you want to Log out?"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Logout Are you sure you want to Log out_bfd6cc' are matched.
+
+2022-09-12 15:51:28 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Logout Are you sure you want to Log out_bfd6cc' are matched.
+
+2022-09-12 15:51:28 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Healios Platform/button_LOGOUT")): Object 'Object Repository/Page_Healios Platform/button_LOGOUT' is clickable
+
+2022-09-12 15:51:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/button_LOGOUT' is clickable
+
+2022-09-12 15:51:29 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Healios Platform/button_LOGOUT"), 0): Object 'Object Repository/Page_Healios Platform/button_LOGOUT' is present
+
+2022-09-12 15:51:29 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-09-12 15:51:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/button_LOGOUT' is present
+
+2022-09-12 15:51:29 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Healios Platform/button_STAY LOGGED IN")): Object 'Object Repository/Page_Healios Platform/button_STAY LOGGED IN' is clickable
+
+2022-09-12 15:51:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/button_STAY LOGGED IN' is clickable
+
+2022-09-12 15:51:30 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Healios Platform/button_STAY LOGGED IN"), 0): Object 'Object Repository/Page_Healios Platform/button_STAY LOGGED IN' is present
+
+2022-09-12 15:51:30 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-09-12 15:51:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/button_STAY LOGGED IN' is present
+
+2022-09-12 15:51:30 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Healios Platform/span_")): Object 'Object Repository/Page_Healios Platform/span_' is clickable
+
+2022-09-12 15:51:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/span_' is clickable
+
+2022-09-12 15:51:31 - [TEST_STEP][PASSED] - waitForElementPresent(findTestObject("Object Repository/Page_Healios Platform/span_"), 0): Object 'Object Repository/Page_Healios Platform/span_' is present
+
+2022-09-12 15:51:31 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-09-12 15:51:31 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Healios Platform/span_' is present
+
+2022-09-12 15:51:31 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-12 15:51:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logout - Successful logged out" time="20.96" classname="Test Cases/Logout - Successful logged out" status="PASSED">
+         <system-out><![CDATA[2022-09-12 15:51:32 - [TEST_CASE][PASSED] - Test Cases/Logout - Successful logged out: Test Cases/Logout - Successful logged out
+
+2022-09-12 15:51:32 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login - Valid"), [:], CONTINUE_ON_FAILURE): Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:51:32 - [TEST_CASE][PASSED] - Test Cases/Login - Valid: Test Cases/Login - Valid
+
+2022-09-12 15:51:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-12 15:51:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-12 15:51:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-12 15:51:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-12 15:51:34 - [TEST_STEP][PASSED] - navigateToUrl("https://data.dev.healios.care/login"): Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:51:40 - [MESSAGE][PASSED] - Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:51:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Healios Platform/input_Email_email"), "pasha.madjar@healios.io"): Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:51:43 - [MESSAGE][PASSED] - Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:51:43 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Healios Platform/input_Password___BVID__30"), "2owp8UsT8kUYhon1eM39HA=="): Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:51:44 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:51:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/button_Log In")): Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:51:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:51:45 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar"), "Welcome Pasha Madjar!"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:51:48 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:51:48 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/span_Home"), "Home"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:51:51 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:51:51 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/span_Pasha Madjar")): Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:51:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:51:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/span_Logout")): Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:51:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/button_LOGOUT")): Object: 'Object Repository/Page_Healios Platform/button_LOGOUT' is clicked on
+
+2022-09-12 15:51:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/button_LOGOUT' is clicked on
+
+2022-09-12 15:51:52 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-12 15:51:53 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Logout - User stays logged in" time="21.61" classname="Test Cases/Logout - User stays logged in" status="PASSED">
+         <system-out><![CDATA[2022-09-12 15:51:53 - [TEST_CASE][PASSED] - Test Cases/Logout - User stays logged in: Test Cases/Logout - User stays logged in
+
+2022-09-12 15:51:53 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login - Valid"), [:], CONTINUE_ON_FAILURE): Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:51:53 - [TEST_CASE][PASSED] - Test Cases/Login - Valid: Test Cases/Login - Valid
+
+2022-09-12 15:51:53 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-09-12 15:51:53 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-09-12 15:51:53 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-09-12 15:51:54 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-09-12 15:51:54 - [TEST_STEP][PASSED] - navigateToUrl("https://data.dev.healios.care/login"): Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:52:00 - [MESSAGE][PASSED] - Navigate to 'https://data.dev.healios.care/login' successfully
+
+2022-09-12 15:52:00 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Healios Platform/input_Email_email"), "pasha.madjar@healios.io"): Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:52:03 - [MESSAGE][PASSED] - Text 'pasha.madjar@healios.io' is set on object 'Object Repository/Page_Healios Platform/input_Email_email'
+
+2022-09-12 15:52:03 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Healios Platform/input_Password___BVID__30"), "2owp8UsT8kUYhon1eM39HA=="): Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:52:04 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Healios Platform/input_Password___BVID__30'
+
+2022-09-12 15:52:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/button_Log In")): Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:52:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/button_Log In' is clicked on
+
+2022-09-12 15:52:05 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar"), "Welcome Pasha Madjar!"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:52:11 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:52:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/span_Home"), "Home"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:52:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/span_Home' are matched.
+
+2022-09-12 15:52:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login - Valid' successfully
+
+2022-09-12 15:52:12 - [TEST_STEP][PASSED] - click(findTestObject("Page_Healios Platform/span_Pasha Madjar")): Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:52:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Pasha Madjar' is clicked on
+
+2022-09-12 15:52:13 - [TEST_STEP][PASSED] - click(findTestObject("Page_Healios Platform/span_Logout")): Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:52:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/span_Logout' is clicked on
+
+2022-09-12 15:52:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Healios Platform/Page_Healios Platform/button_STAY LOGGED IN")): Object: 'Object Repository/Page_Healios Platform/Page_Healios Platform/button_STAY LOGGED IN' is clicked on
+
+2022-09-12 15:52:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Healios Platform/Page_Healios Platform/button_STAY LOGGED IN' is clicked on
+
+2022-09-12 15:52:14 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Healios Platform/Page_Healios Platform/div_Welcome Pasha Madjar"), "Welcome Pasha Madjar!"): Actual text and expected text of test object 'Object Repository/Page_Healios Platform/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:52:14 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Healios Platform/Page_Healios Platform/div_Welcome Pasha Madjar' are matched.
+
+2022-09-12 15:52:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2022-09-12 15:52:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-09-12 15:51:01 - [TEST_SUITE][PASSED] - Logout: Test Cases/Logout - User stays logged in]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

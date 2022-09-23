@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Authorisation Level</name>
+   <tag></tag>
+   <elementGuidId>0d3c53c7-b78b-4fed-8958-d930051e32a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div[3]/div/div/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>20ba6269-f860-4251-97e0-6ddcf66d8aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorisation Level</value>
+      <webElementGuid>38992437-74fd-49ef-be3f-62cd6d34c85d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/label[1]</value>
+      <webElementGuid>8a68a456-5158-4230-81b4-b599bb9c747a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>04b1b955-a819-4242-af66-e4a9387c15af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorisation Level</value>
+      <webElementGuid>da999f16-eca0-435e-9f1b-769889eed523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/label[1]</value>
+      <webElementGuid>0389ab9b-941b-41ee-93bb-33445fa38cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9221aba1-28d5-4735-9b95-a8a6a76c64d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorisation Level</value>
+      <webElementGuid>80fa3df5-b7d0-493a-9ba1-01b3ce04e4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/label[1]</value>
+      <webElementGuid>b4236fe5-b5e2-4768-bbba-698b9434c096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e57804df-3932-41ce-b6fe-346c7e76f238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Authorisation Level</value>
+      <webElementGuid>fa9f3ca2-b42c-42a0-89da-1a5c3976f222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/label[1]</value>
+      <webElementGuid>a08fdfed-a6cb-4716-a598-4342485946df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div[3]/div/div/div[2]/label</value>
+      <webElementGuid>db00a11c-eda2-4415-8b4c-257540fbbf4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/following::label[1]</value>
+      <webElementGuid>d3b7fc70-aa6e-40dc-b723-d35bda6272ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Type'])[1]/following::label[1]</value>
+      <webElementGuid>a5b0cf43-ae6d-48e0-8816-8b81c34f63d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[6]/preceding::label[1]</value>
+      <webElementGuid>27c8c2ad-d788-4510-a0e1-e8859dd85674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Name'])[1]/preceding::label[1]</value>
+      <webElementGuid>717834a8-4aee-4585-8830-1cb4fa870a27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Authorisation Level']/parent::*</value>
+      <webElementGuid>9b16eb5a-0a10-4a03-880f-f0dca4cb04f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label</value>
+      <webElementGuid>58eb2caa-afaa-4a92-ab26-e038f7877634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Authorisation Level' or . = 'Authorisation Level')]</value>
+      <webElementGuid>8deec043-7ed7-41d3-ba42-2ecef2b383b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healios'])[1]/following::label[1]</value>
+      <webElementGuid>3b8955d1-0527-4ba2-b465-588a6995ffdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System'])[1]/preceding::label[1]</value>
+      <webElementGuid>de84e681-8170-4826-9e4d-e4479b46f9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[1]/following::label[1]</value>
+      <webElementGuid>e934e0ed-fad6-4376-b441-8239e1e100a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

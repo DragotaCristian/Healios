@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Sorry, no matching options</name>
+   <tag></tag>
+   <elementGuidId>b4f0b696-c450-48cf-98ca-af8cd3cefa13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;vs15__listbox&quot;)/li[@class=&quot;vs__no-options&quot;][count(. | //li[@class = 'vs__no-options' and (text() = 'Sorry, no matching options.' or . = 'Sorry, no matching options.')]) = count(//li[@class = 'vs__no-options' and (text() = 'Sorry, no matching options.' or . = 'Sorry, no matching options.')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.vs__no-options</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='vs15__listbox']/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b49a1cad-1228-48ca-974b-5079c6872f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vs__no-options</value>
+      <webElementGuid>daedbda9-db91-4183-a28e-2104e69d37b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sorry, no matching options.</value>
+      <webElementGuid>7c7d2abc-6ead-4c4c-9d7c-84f15dd9c0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vs15__listbox&quot;)/li[@class=&quot;vs__no-options&quot;]</value>
+      <webElementGuid>5d6b7776-622d-49ce-812e-946c04523145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='vs15__listbox']/li</value>
+      <webElementGuid>9a4f2122-fec6-4a82-b5ae-55a4d8d186a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[5]/following::li[1]</value>
+      <webElementGuid>d925de17-28fe-4733-a45f-88ca6d6ae022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Type'])[1]/following::li[1]</value>
+      <webElementGuid>f4d0598a-2246-4184-8bab-b0c73db90112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorisation Level'])[1]/preceding::li[1]</value>
+      <webElementGuid>665b6b25-597a-4db6-b90e-656009de5171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[6]/preceding::li[1]</value>
+      <webElementGuid>6d4a9026-887f-4bb8-a556-a83b3e932bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sorry, no matching options.']/parent::*</value>
+      <webElementGuid>8cfd13ce-0bb5-4bdc-a883-806c249eb7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/ul/li</value>
+      <webElementGuid>be1f65ad-63f8-4c45-a830-938a839df4a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Sorry, no matching options.' or . = 'Sorry, no matching options.')]</value>
+      <webElementGuid>1537e608-5c7a-4b01-bb9f-52b07f154573</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

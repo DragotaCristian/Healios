@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Write Healios Role</name>
+   <tag></tag>
+   <elementGuidId>1603165e-df04-485d-93d6-d5deec136874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__BVID__834&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;][count(. | //label[@for = '__BVID__834_BV_option_3' and @class = 'custom-control-label' and (text() = 'Write Healios Role' or . = 'Write Healios Role')]) = count(//label[@for = '__BVID__834_BV_option_3' and @class = 'custom-control-label' and (text() = 'Write Healios Role' or . = 'Write Healios Role')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;__BVID__571_BV_option_3&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label[for='__BVID__2836_BV_option_3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>733f7401-e604-42bf-89c9-e098a407abfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>__BVID__834_BV_option_3</value>
+      <webElementGuid>6e19b3d8-8902-4a00-8c96-52d9b7034e58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>025e5ecf-9886-446a-b5c2-d783a6d38344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Write Healios Role</value>
+      <webElementGuid>17ce9594-f702-4267-99c1-dabaa991eb6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__834&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>32efa320-bd3e-4c94-9f18-d311e66a5db4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__834']/div[4]/label</value>
+      <webElementGuid>9ea3ad5c-0a5d-40e4-a9b0-0079579d1bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Healios Role'])[1]/following::label[1]</value>
+      <webElementGuid>2d25ab46-6972-461f-b2d9-c8e255b92769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Healios User'])[1]/following::label[2]</value>
+      <webElementGuid>3e4e70b0-522f-4856-94e3-ed082be02c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Client'])[1]/preceding::label[1]</value>
+      <webElementGuid>97fe6a03-e384-4ff1-8454-588b6180976c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label</value>
+      <webElementGuid>b800036a-1ee2-4996-9f69-664db79c18b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Write Healios Role' or . = 'Write Healios Role')]</value>
+      <webElementGuid>3dd030d8-f2c8-48a3-869f-7d0e5bc09553</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

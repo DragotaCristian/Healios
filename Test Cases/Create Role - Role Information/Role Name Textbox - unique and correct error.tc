@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Role Name Textbox - unique and correct error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>710a2d9b-7c57-499e-95c9-90e1cef9cf10</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb5cc951-4de9-45f9-8d19-f5d4fe07a1ac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fb5cc951-4de9-45f9-8d19-f5d4fe07a1ac</id>
+      <masked>false</masked>
+      <name>error</name>
+   </variable>
+</TestCaseEntity>

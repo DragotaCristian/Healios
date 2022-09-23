@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Click on the username menu
+2. Click the log out button.
+3. Click close button the the displayed pop-up.</description>
+   <name>Logout - User stays logged in</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5e8c94a-a84b-4f78-a2db-3895cce69b85</testCaseGuid>
+</TestCaseEntity>

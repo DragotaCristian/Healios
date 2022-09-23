@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login page is displayed
+The &quot;Login to Healios&quot; label is displayed
+The &quot;Email&quot; label is displayed
+The &quot;Email&quot; text box is displayed
+The &quot;example@email.com&quot; placeholder in the &quot;Email&quot; text box is displayed
+The &quot;Password&quot; label is displayed
+The &quot;Enter your password&quot; placeholder in the &quot;Password&quot; text box is displayed
+The &quot;eye&quot; icon in the &quot;Password&quot; text box is displayed
+The &quot;Forgot password?&quot; link is displayed
+The &quot;Log In&quot; button is displayed</description>
+   <name>Login Page - All needed elements are displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33c6888a-803f-4a18-891f-13204957ec9c</testCaseGuid>
+</TestCaseEntity>

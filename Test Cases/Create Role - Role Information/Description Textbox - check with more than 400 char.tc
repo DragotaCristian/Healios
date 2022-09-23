@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Description Textbox - check with more than 400 char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8633a340-23d6-47bb-8767-cd13fb6ca358</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>367e3d9a-a1b1-4991-b49c-b537144c6c49</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>367e3d9a-a1b1-4991-b49c-b537144c6c49</id>
+      <masked>false</masked>
+      <name>textTest</name>
+   </variable>
+</TestCaseEntity>

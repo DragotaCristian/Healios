@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Notification</name>
+   <tag></tag>
+   <elementGuidId>de6639e0-d5fc-43a7-a223-10ad36411aac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-lg.mb-0.mx-3.border-bottom.py-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0cfe9e50-f8a8-4211-bda3-2eeebfa6befb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-lg mb-0 mx-3 border-bottom py-3</value>
+      <webElementGuid>18a4e1d8-2f96-423c-a854-db92ee98cf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Notification </value>
+      <webElementGuid>1e412d17-b947-4373-8fed-c7ad801a29ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0.2732093350725082&quot;)/ul[@class=&quot;navbar-nav align-items-center d-none d-md-flex ml-auto&quot;]/li[@class=&quot;nav-item dropdown mr-4&quot;]/li[@class=&quot;pr-0 show dropdown&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right show shadow border notification-dropdown&quot;]/p[@class=&quot;text-lg mb-0 mx-3 border-bottom py-3&quot;]</value>
+      <webElementGuid>e4e72584-d7cc-4683-9d43-4e1cdd004b98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0.2732093350725082']/ul/li[3]/li/ul/p</value>
+      <webElementGuid>48167b4e-7bf6-4024-8bd3-ecf69f3481f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::p[1]</value>
+      <webElementGuid>0901f03e-54b7-4f70-bb56-6b3ce40576d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::p[1]</value>
+      <webElementGuid>6069eaad-c47d-429b-addb-9c14bb3b4be6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasha Madjar'])[1]/preceding::p[11]</value>
+      <webElementGuid>d14df2f1-5248-4c83-a3e6-a243a6a7546d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::p[11]</value>
+      <webElementGuid>f7a18c20-82b6-4829-893b-0b54e1801fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Notification']/parent::*</value>
+      <webElementGuid>93c42bb0-b902-4b5d-827b-e8480df802e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>594a36de-acf5-4af2-bd0b-d012bba9be6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Notification ' or . = ' Notification ')]</value>
+      <webElementGuid>e330d9e2-3388-4b89-a110-7af4011230f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

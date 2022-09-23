@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Create new Role</name>
+   <tag></tag>
+   <elementGuidId>0cded2b4-e020-4d61-ad01-9d0ab3ed1703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__BVID__2962___BV_modal_title_</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>607a4c06-6552-47ba-8893-f01f51a46af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__BVID__2962___BV_modal_title_</value>
+      <webElementGuid>5e375222-f0e7-4e02-b3fc-3f14384a8af9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title</value>
+      <webElementGuid>c4b35098-95c9-458d-98ad-f074d7cf5eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>4077827f-0628-4086-875d-281052cdaa52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__2962___BV_modal_title_&quot;)</value>
+      <webElementGuid>772083a2-79f1-4f96-86ab-949bae90a735</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h3[@id='__BVID__2962___BV_modal_title_']</value>
+      <webElementGuid>346cd558-53ab-4031-a167-7314618bc489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='__BVID__2962___BV_modal_header_']/h3</value>
+      <webElementGuid>3fc4dc82-5c26-462c-bb7c-346d6895577b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '__BVID__2962', '&quot;', ')')])[1]/following::h3[1]</value>
+      <webElementGuid>481a9187-6c5e-4ab8-b973-087f082ca312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::h3[1]</value>
+      <webElementGuid>01482dcb-4357-4f4a-94fd-c9ee6fa4ffe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Cancel'])[1]/preceding::h3[1]</value>
+      <webElementGuid>2ee2a50b-f6a1-4acb-95d8-83f35a37085f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, Continue'])[1]/preceding::h3[1]</value>
+      <webElementGuid>88779f33-2561-48ca-adf8-11d93a07125b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>e4f4fac6-ee53-4528-a3c5-b89763f26a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[@id = '__BVID__2962___BV_modal_title_' and (text() = 'Create new Role' or . = 'Create new Role')]</value>
+      <webElementGuid>7068e6b8-6bc8-41b7-8f81-7e04e8b057f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

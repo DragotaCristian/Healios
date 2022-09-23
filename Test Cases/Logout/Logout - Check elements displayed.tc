@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The &lt;Log Out> pop-up is displayed
+The &lt;Log Out> label on the Log Out pop-up is displayed
+The &lt;Close> button on the Log Out pop-up is displayed
+The &lt;LOGOUT> button on the Log Out pop-up is displayed
+The &lt;STAY LOGGED IN> button on the Log Out pop-up is displayed</description>
+   <name>Logout - Check elements displayed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fb4c084-ceb8-4e56-ada5-12072ebbe767</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_The parameter name cannot be empty</name>
+   <tag></tag>
+   <elementGuidId>7daef7a7-96d9-4d95-9155-df6fbd5d8735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.v-toast__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::p[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>496f1959-d46a-4ce2-9ee6-0f518812197d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-toast__text</value>
+      <webElementGuid>49b53633-cf73-481a-905c-3b33c431f577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The parameter name cannot be empty</value>
+      <webElementGuid>aa67defe-15e8-43e1-aac4-7c0cd8d5a41b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;v-toast v-toast--top&quot;]/div[@class=&quot;v-toast__item v-toast__item--error v-toast__item--top-right&quot;]/p[@class=&quot;v-toast__text&quot;]</value>
+      <webElementGuid>e42387ac-36c1-49ad-8054-52c2479f12f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e32b391c-f390-4145-ac3c-e6516fed5512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-toast__text</value>
+      <webElementGuid>e58a800f-5f39-4fde-9b92-244c6ec671a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The parameter name cannot be empty</value>
+      <webElementGuid>50cef0e9-ba51-4814-b600-2a33954bba5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;v-toast v-toast--top&quot;]/div[@class=&quot;v-toast__item v-toast__item--error v-toast__item--top-right&quot;]/p[@class=&quot;v-toast__text&quot;]</value>
+      <webElementGuid>65436841-6a6e-4431-afdb-b0e26cde1338</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::p[1]</value>
+      <webElementGuid>44574365-9d8c-4b03-bea8-0d2c61778b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::p[1]</value>
+      <webElementGuid>db661a03-87e2-4dfc-95fd-9418d0b42a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The parameter name cannot be empty']/parent::*</value>
+      <webElementGuid>5a259f30-81e6-4db7-aaa2-60fbc8e04cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p</value>
+      <webElementGuid>bca8ba53-96fb-41c0-b70b-67deb61845fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The parameter name cannot be empty' or . = 'The parameter name cannot be empty')]</value>
+      <webElementGuid>fc1ecf00-90cd-4b1d-8735-10aa5cf10642</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

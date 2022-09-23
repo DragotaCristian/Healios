@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Search_fas fa-question-circle</name>
+   <tag></tag>
+   <elementGuidId>92770a26-a323-4794-9612-3bdc151b9f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='0.2732093350725082']/ul/li[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>db68d6e6-e4ee-499c-b2a3-e6a227c2c136</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-question-circle</value>
+      <webElementGuid>2b7eb292-adf9-4a31-8683-d0efa934b1aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0.2732093350725082&quot;)/ul[@class=&quot;navbar-nav align-items-center d-none d-md-flex ml-auto&quot;]/li[@class=&quot;nav-item dropdown cursor-pointer mr-4&quot;]/div[1]/i[@class=&quot;fas fa-question-circle&quot;]</value>
+      <webElementGuid>7eb08dbd-d7fd-4b22-9a1b-26158edecfe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0.2732093350725082']/ul/li[2]/div/i</value>
+      <webElementGuid>47d38050-a8fd-496f-9d85-4cdfb4456341</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/i</value>
+      <webElementGuid>6f89c6bc-643e-418e-81bc-429086d26088</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

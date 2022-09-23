@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Change Password</name>
+   <tag></tag>
+   <elementGuidId>a2c18589-76c2-4a1d-9047-ca9afcc38e74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='0.2732093350725082']/ul/li[4]/li/ul/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.dropdown-menu.dropdown-menu-right.show > a.dropdown-item > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f0dcf8ee-360f-47cd-be64-3a7a6e99a12a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>7bf13c35-e92f-4fcf-8ae5-97cd0aaa890c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0.2732093350725082&quot;)/ul[@class=&quot;navbar-nav align-items-center d-none d-md-flex ml-auto&quot;]/li[@class=&quot;nav-item dropdown cursor-pointer&quot;]/li[@class=&quot;pr-0 show dropdown&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/a[@class=&quot;dropdown-item&quot;]/span[1]</value>
+      <webElementGuid>51d9e651-ed3d-425c-a5f8-0201e10adab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1db6e45-fd6d-45dd-8c0e-45ef7d743597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change Password</value>
+      <webElementGuid>4993cf3c-25a2-4f13-8375-0781799732e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0.822653129696058&quot;)/ul[@class=&quot;navbar-nav align-items-center d-none d-md-flex ml-auto&quot;]/li[@class=&quot;nav-item dropdown cursor-pointer&quot;]/li[@class=&quot;pr-0 show dropdown&quot;]/ul[@class=&quot;dropdown-menu dropdown-menu-right show&quot;]/a[@class=&quot;dropdown-item&quot;]/span[1]</value>
+      <webElementGuid>d044d271-1834-47f9-a85f-c298d148faec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0.2732093350725082']/ul/li[4]/li/ul/a/span</value>
+      <webElementGuid>4e6c8766-1b28-4077-a025-b41380b39230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasha Madjar'])[1]/following::span[1]</value>
+      <webElementGuid>25cb6a48-ea9f-4d60-9ab4-c235023b74b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[10]</value>
+      <webElementGuid>b90b27e2-b8f5-4a98-852b-db1e74abada5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/preceding::span[1]</value>
+      <webElementGuid>29a3b312-6e44-43b8-a5ad-95577e6f7df5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Change Password']/parent::*</value>
+      <webElementGuid>0d942f5f-827a-486b-b1e2-e0892810858f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/li/ul/a/span</value>
+      <webElementGuid>8048e7b5-7ea3-47f2-b387-46322e1bb87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Change Password' or . = 'Change Password')]</value>
+      <webElementGuid>9888514a-c6c1-4408-8f75-0572a669ad43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0.822653129696058']/ul/li[4]/li/ul/a/span</value>
+      <webElementGuid>72cb69eb-2c19-4a68-9ed5-3970f99e2275</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

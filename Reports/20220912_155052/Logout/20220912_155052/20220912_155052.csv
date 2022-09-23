@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Logout,Chrome 105.0.0.0,,,2022-09-12 15:51:01,2022-09-12 15:52:14,1m - 13.386s,PASSED
+,,,,,,,
+Test Cases/Logout - Check elements displayed,Chrome 105.0.0.0,"The <Log Out> pop-up is displayed
+The <Log Out> label on the Log Out pop-up is displayed
+The <Close> button on the Log Out pop-up is displayed
+The <LOGOUT> button on the Log Out pop-up is displayed
+The <STAY LOGGED IN> button on the Log Out pop-up is displayed",,2022-09-12 15:51:01,2022-09-12 15:51:32,30.375s,PASSED
+"callTestCase(findTestCase(""Login - Valid""), [:], CONTINUE_ON_FAILURE)",Chrome 105.0.0.0,,,2022-09-12 15:51:02,2022-09-12 15:51:26,24.430s,PASSED
+"click(findTestObject(""Page_Healios Platform/span_Pasha Madjar""))",Chrome 105.0.0.0,,,2022-09-12 15:51:26,2022-09-12 15:51:27,0.760s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/span_Logout""))",Chrome 105.0.0.0,,,2022-09-12 15:51:27,2022-09-12 15:51:27,0.611s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/div_Logout""), 0)",Chrome 105.0.0.0,,,2022-09-12 15:51:27,2022-09-12 15:51:28,0.315s,PASSED
+"verifyElementText(findTestObject(""Page_Healios Platform/div_Logout Are you sure you want to Log out_bfd6cc""), ""Are you sure you want to Log out?"")",Chrome 105.0.0.0,,,2022-09-12 15:51:28,2022-09-12 15:51:28,0.435s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Healios Platform/button_LOGOUT""))",Chrome 105.0.0.0,,,2022-09-12 15:51:28,2022-09-12 15:51:29,0.559s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/button_LOGOUT""), 0)",Chrome 105.0.0.0,,,2022-09-12 15:51:29,2022-09-12 15:51:29,0.405s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Healios Platform/button_STAY LOGGED IN""))",Chrome 105.0.0.0,,,2022-09-12 15:51:29,2022-09-12 15:51:30,0.648s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/button_STAY LOGGED IN""), 0)",Chrome 105.0.0.0,,,2022-09-12 15:51:30,2022-09-12 15:51:30,0.544s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Healios Platform/span_""))",Chrome 105.0.0.0,,,2022-09-12 15:51:30,2022-09-12 15:51:31,0.626s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Page_Healios Platform/span_""), 0)",Chrome 105.0.0.0,,,2022-09-12 15:51:31,2022-09-12 15:51:31,0.448s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-12 15:51:31,2022-09-12 15:51:32,0.155s,PASSED
+,,,,,,,
+Test Cases/Logout - Successful logged out,Chrome 105.0.0.0,"1.Click user menu
+2.Click logout button from the dropdown
+3.Click logout button on the display pop-up.",,2022-09-12 15:51:32,2022-09-12 15:51:53,20.960s,PASSED
+"callTestCase(findTestCase(""Login - Valid""), [:], CONTINUE_ON_FAILURE)",Chrome 105.0.0.0,,,2022-09-12 15:51:32,2022-09-12 15:51:51,18.878s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/span_Pasha Madjar""))",Chrome 105.0.0.0,,,2022-09-12 15:51:51,2022-09-12 15:51:51,0.596s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/span_Logout""))",Chrome 105.0.0.0,,,2022-09-12 15:51:51,2022-09-12 15:51:52,0.725s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/button_LOGOUT""))",Chrome 105.0.0.0,,,2022-09-12 15:51:52,2022-09-12 15:51:52,0.418s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-12 15:51:52,2022-09-12 15:51:53,0.125s,PASSED
+,,,,,,,
+Test Cases/Logout - User stays logged in,Chrome 105.0.0.0,"1. Click on the username menu
+2. Click the log out button.
+3. Click close button the the displayed pop-up.",,2022-09-12 15:51:53,2022-09-12 15:52:14,21.610s,PASSED
+"callTestCase(findTestCase(""Login - Valid""), [:], CONTINUE_ON_FAILURE)",Chrome 105.0.0.0,,,2022-09-12 15:51:53,2022-09-12 15:52:12,18.918s,PASSED
+"click(findTestObject(""Page_Healios Platform/span_Pasha Madjar""))",Chrome 105.0.0.0,,,2022-09-12 15:52:12,2022-09-12 15:52:13,0.876s,PASSED
+"click(findTestObject(""Page_Healios Platform/span_Logout""))",Chrome 105.0.0.0,,,2022-09-12 15:52:13,2022-09-12 15:52:13,0.623s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/Page_Healios Platform/button_STAY LOGGED IN""))",Chrome 105.0.0.0,,,2022-09-12 15:52:13,2022-09-12 15:52:14,0.368s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/Page_Healios Platform/div_Welcome Pasha Madjar""), ""Welcome Pasha Madjar!"")",Chrome 105.0.0.0,,,2022-09-12 15:52:14,2022-09-12 15:52:14,0.400s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-12 15:52:14,2022-09-12 15:52:14,0.124s,PASSED

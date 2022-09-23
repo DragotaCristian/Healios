@@ -1,0 +1,34 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Healios Platform/label_Write Healios Role",
+      "brokenLocator": "id(\"__BVID__834\")/div[@class\u003d\"custom-control custom-checkbox\"]/label[@class\u003d\"custom-control-label\"][count(. | //label[@for \u003d \u0027__BVID__834_BV_option_3\u0027 and @class \u003d \u0027custom-control-label\u0027 and (text() \u003d \u0027Write Healios Role\u0027 or . \u003d \u0027Write Healios Role\u0027)]) \u003d count(//label[@for \u003d \u0027__BVID__834_BV_option_3\u0027 and @class \u003d \u0027custom-control-label\u0027 and (text() \u003d \u0027Write Healios Role\u0027 or . \u003d \u0027Write Healios Role\u0027)])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Read Healios Role\u0027])[1]/following::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Healios Platform/label_Write Healios Role_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Healios Platform/span_Write Healios Role",
+      "brokenLocator": "//div[@id\u003d\u0027__BVID__4830\u0027]/div[4]/label/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Read Healios Role\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Healios Platform/span_Write Healios Role_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Healios Platform/div_Read Standard Role",
+      "brokenLocator": "//div[@id\u003d\u0027__BVID__4830\u0027]/div[7]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Write Client\u0027])[1]/following::div[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Healios Platform/div_Read Standard Role_neighbor.png"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>TEST</description>
+   <name>Role_Client</name>
+   <tag></tag>
+   <elementGuidId>5be9d35e-1caa-4264-91a5-16ca5602faf8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      <webElementGuid>34cca5b6-d217-4e22-aaa8-5d7366672bd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      <webElementGuid>b3bf4bea-e28e-43ba-8f78-11c5785bd5fc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

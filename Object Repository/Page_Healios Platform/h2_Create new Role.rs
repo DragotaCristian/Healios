@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Create new Role</name>
+   <tag></tag>
+   <elementGuidId>9ced744b-683e-4620-ac8e-de6e67ebd153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.topbar-title.flex-grow-1.mb-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b8f46357-9189-44b5-ae3e-c56523d77d1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>d835ff83-bc2a-45e4-8fc5-261b407fbc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>a787f0f7-0a63-4350-aeaa-498cf107529e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>3a1a67d9-59b5-4e25-90aa-de98e4ca9e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>40aaf22d-91af-4f6d-9fc9-ecf402ef1a82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>d7aff53d-e817-4729-8b5c-150e0413ae48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>5c3fb179-5f34-4fbe-a577-d96c5707eedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>a3ff603e-6b44-40bf-8407-53f09df903d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c59ec2e4-3e6b-482e-8e28-2438ae5e8386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>c3a32e30-5be0-4293-817c-0291c621b737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>63019792-6ce7-4d72-af24-c491d05a25a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>7799103d-ebf1-42a7-b94b-747d6ac6f927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>07d4fd6c-9778-4942-bd87-5837d0356d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>f130027f-3f74-4d46-af4a-bd0bd059f0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>30ec2beb-3fd9-4d0d-b4fe-3b5cb6b86744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>94b438c8-cdc9-4082-991b-00319b2fbdf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>c6ababba-1230-4f93-b07c-48d883060045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>1969e190-4f81-47c7-ac9d-c2103ffadc19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>2daf29d8-f697-4cd1-a9db-3f6626a581a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>2fb6a810-21a9-4ceb-b482-6a6059a10297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>cf42fca4-3ec7-428a-9c53-d5f7879ab7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>00cfac97-dde4-478a-a8dd-3eee445d29aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>ec5633ba-1669-44b5-a930-acfe70d9d872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>fa288152-6a62-44ad-b80c-fbe53501246a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fd8fb9d4-d56a-4833-b9d9-38b0b9359dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>3d8a697e-218a-4d9c-9474-6d0fd69330ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>6c526b0f-ea4f-4f4b-8364-a5747b6067ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>77186ecf-a6bd-41c8-9a4b-62e3e913c9b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>eb7aff68-d299-4ba4-a8d2-5817388d5314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>829c863b-ae57-484f-844a-f9e1d772efd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>4b2e1e99-c3aa-43be-b1ef-8ffff801534c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>cf8e27e6-cbb7-475e-a3da-35f5e6524923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>35f32168-93e7-4cc5-b729-35c014c3d373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>166114cb-1169-496e-81fa-5a1b15f75d29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>e6ded470-ff49-485c-9502-ae012288d680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>34dbbf9a-e5eb-4dec-8234-ce25ea4f493c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>bd97aa66-4d6f-4bd3-97b9-7e89438406e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>a05fb2a5-c5f5-46e4-b8e4-7f761711588a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>34ac806a-cabb-479a-b7fc-3f91366e176f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>14e2fc3d-8744-4b16-83c2-181d0e104fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>99f6089a-df7a-4f0e-9844-895b1edb98c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>1a7bbe38-a4ee-4f08-97b5-2c0402a5550f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>ded344ec-0c07-4ba1-b9e8-dabcd97b3cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>bcedb3ab-d042-435b-acb5-5e0b8c0540c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>84670e6a-2079-42fa-8463-fb1c96996a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>topbar-title flex-grow-1 mb-0</value>
+      <webElementGuid>40717299-f50c-4c09-95ef-340c1708cda1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>c0bdb054-e654-416a-9173-a36338ab6452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]/h2[@class=&quot;topbar-title flex-grow-1 mb-0&quot;]</value>
+      <webElementGuid>8be45e8c-3d64-445f-9a43-d4564af9f339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/h2</value>
+      <webElementGuid>7d7137b0-2c7b-4d79-a96d-e4959b0c3b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Participant'])[2]/following::h2[1]</value>
+      <webElementGuid>84c9f5f5-b306-4c4f-acad-3adb19828e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::h2[1]</value>
+      <webElementGuid>077f34a9-1fb7-403e-8afd-9e40ddc3eed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Information'])[1]/preceding::h2[1]</value>
+      <webElementGuid>ee20ff72-1147-4394-a4f6-8bdfc4f1418a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fba5ebfc-c7cd-4f82-809b-dcb828d19902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create new Role']/parent::*</value>
+      <webElementGuid>56f854e7-03ee-4378-b0e2-fc7f17b2c58a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>afab41e0-02fd-4099-b703-ee6449929b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Create new Role' or . = 'Create new Role')]</value>
+      <webElementGuid>8e0722da-3217-490e-8abf-a2214313db47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

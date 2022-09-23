@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Role Name Textbox - check with more than 100 char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>299aa7bd-0dc9-44b8-8db9-69b7f3c816ff</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab0cd536-8b8b-4c24-983e-41b096cf69db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab0cd536-8b8b-4c24-983e-41b096cf69db</id>
+      <masked>false</masked>
+      <name>textTest</name>
+   </variable>
+</TestCaseEntity>

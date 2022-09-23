@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Password_far fa-eye eye-icon</name>
+   <tag></tag>
+   <elementGuidId>7f0b478b-f84b-41e7-aab1-bcfedad54808</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.far.fa-eye.eye-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2261f6c4-e9d4-4111-964e-594ec8aebdfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>far fa-eye eye-icon</value>
+      <webElementGuid>2aabd3cd-795e-4335-abef-01eedc9776d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[2]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center min-vh-100&quot;]/div[@class=&quot;align-self-center col-7&quot;]/div[@class=&quot;mx-auto w-75&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;input-group input-container&quot;]/div[@class=&quot;input-group-append&quot;]/div[@class=&quot;input-group-text&quot;]/i[@class=&quot;far fa-eye eye-icon&quot;]</value>
+      <webElementGuid>697f85bb-1c9f-4b20-af4d-632c3859f450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/div/div/div/div/div/div/div[3]/div/div/div/div/i</value>
+      <webElementGuid>58e920d7-dbe9-45d1-bef4-db4943e0885a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>e750a282-0cf9-482e-9e7c-a029707a9f90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>TEST</description>
+   <name>Role_Healios</name>
+   <tag></tag>
+   <elementGuidId>f076a6f6-4392-4106-be4a-044a97a2da58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;vs5__option-0&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;vs5__option-1&quot;]</value>
+      <webElementGuid>36c69384-cbda-4ed3-b926-2f5464f37b64</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

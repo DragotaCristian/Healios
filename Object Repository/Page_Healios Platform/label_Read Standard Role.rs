@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Read Standard Role</name>
+   <tag></tag>
+   <elementGuidId>fd6af32b-e0f6-4b14-8787-5be6755ed27f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__BVID__834&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;][count(. | //label[@for = '__BVID__834_BV_option_6' and @class = 'custom-control-label' and (text() = 'Read Standard Role' or . = 'Read Standard Role')]) = count(//label[@for = '__BVID__834_BV_option_6' and @class = 'custom-control-label' and (text() = 'Read Standard Role' or . = 'Read Standard Role')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Client'])[1]/following::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c8aa1620-f3ff-465d-ab65-6587fcdd70a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>__BVID__834_BV_option_6</value>
+      <webElementGuid>2803d606-2a99-4c5c-a606-7d58088b8d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>2b4ef3f7-0349-45b6-8c4b-994fb35f1b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>1598e638-5d06-4e33-839e-efafee86831f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__834&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>d5abc137-b916-4e2e-b546-d50e2c7d9756</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__BVID__834']/div[7]/label</value>
+      <webElementGuid>6a2df286-013c-4ae6-a0ec-77c7f182b642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Client'])[1]/following::label[1]</value>
+      <webElementGuid>2c3d074d-0f09-4ec0-ac3e-7bacc5f080c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Client'])[1]/following::label[2]</value>
+      <webElementGuid>cafa6454-1b3b-409e-b8bc-b7b9bcc70f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Standard Role'])[1]/preceding::label[1]</value>
+      <webElementGuid>ac4897d0-0ce1-431a-aa4f-669e341c8ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/label</value>
+      <webElementGuid>c0307d68-501e-4718-87a7-df9f1a54c42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Read Standard Role' or . = 'Read Standard Role')]</value>
+      <webElementGuid>520ed967-b738-4259-8598-9fd7569afc7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

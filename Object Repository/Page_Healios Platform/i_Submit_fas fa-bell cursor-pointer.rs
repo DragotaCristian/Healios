@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Submit_fas fa-bell cursor-pointer</name>
+   <tag></tag>
+   <elementGuidId>57a8bbc8-b2a7-4dcb-bb53-e96f5ac4cd2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-bell.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[3]/li/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0bbbf1b5-b07a-40d7-90e8-46bb1eccd6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-bell cursor-pointer</value>
+      <webElementGuid>693e89d3-549d-4f2e-b4d4-4a376338e783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0.2732093350725082&quot;)/ul[@class=&quot;navbar-nav align-items-center d-none d-md-flex ml-auto&quot;]/li[@class=&quot;nav-item dropdown mr-4&quot;]/li[@class=&quot;pr-0 dropdown&quot;]/div[1]/i[@class=&quot;fas fa-bell cursor-pointer&quot;]</value>
+      <webElementGuid>71f2e300-c72d-436d-b50c-450f1e024860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='0.2732093350725082']/ul/li[3]/li/div/i</value>
+      <webElementGuid>3a60c8da-d6a6-4008-8f23-7f4647e768f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/li/div/i</value>
+      <webElementGuid>a3107710-8699-496e-948e-4886e38a2ff7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

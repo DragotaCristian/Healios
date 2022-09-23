@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Logout Are you sure you want to Log out_bfd6cc</name>
+   <tag></tag>
+   <elementGuidId>94c93014-7ec0-4ca9-8f36-617fd4d6a702</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal.fade.show.d-block</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='text-center font-weight-bold'][count(. | //*[@content-class = 'text-center' and (text() = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ' or . = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ')]) = count(//*[@content-class = 'text-center' and (text() = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ' or . = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='text-center font-weight-bold']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e6c03d90-cfd7-4486-96c2-a8a60c0cd91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>77c9a824-fe1b-4f4c-b3c1-dfd9c5065008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>54771dc6-5da2-40d4-a026-5b91e9e153dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal fade show d-block</value>
+      <webElementGuid>a9436b94-a3a6-4a23-af9f-2c5e4c58158a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>content-class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>57876f1c-b423-40a8-b6ec-1e1fe71b60d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN </value>
+      <webElementGuid>0a06d95b-2b5b-4caa-83cd-1a72a54c5ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='text-center font-weight-bold']</value>
+      <webElementGuid>256e778d-9f61-46c4-a9c0-634b519aff67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@class='text-center font-weight-bold']</value>
+      <webElementGuid>54761ada-61a1-427e-ac6e-f8ee61eda99c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[2]/following::div[1]</value>
+      <webElementGuid>6e8f8304-29be-4c3d-b4c7-05be8b801b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::div[2]</value>
+      <webElementGuid>27f76def-87ff-4404-8d2f-011e864d9b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/nav/div/div/div</value>
+      <webElementGuid>ea982e5e-c20b-441c-880f-4a492ca03688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ' or . = ' Logout ×Are you sure you want to Log out?LOGOUT STAY LOGGED IN ')]</value>
+      <webElementGuid>9cec1a77-6c7f-4eb7-9334-190543c28bb6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
