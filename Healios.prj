@@ -6,6 +6,7 @@
    <UUID>3fc175bb-2641-47e0-b4b1-3bdb9ac3acf9</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/cristidragota/Katalon Studio/Healios/Healios.git/Healios.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

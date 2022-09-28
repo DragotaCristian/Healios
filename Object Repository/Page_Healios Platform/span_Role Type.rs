@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Role Type</name>
+   <tag></tag>
+   <elementGuidId>69a7d082-0b78-4fce-bc9a-8c13af079826</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/thead/tr/th/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.VueTables__heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>992f3667-889a-474b-9da0-a3b2f06982a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VueTables__heading</value>
+      <webElementGuid>f89fbfd3-7368-432f-9866-74521c4a7eea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Role Type</value>
+      <webElementGuid>27b5cee3-04f9-426d-a10e-972137a0ac8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;m-5&quot;]/div[@class=&quot;VueTables VueTables--client&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table app-table&quot;]/thead[1]/tr[1]/th[1]/span[@class=&quot;VueTables__heading&quot;]</value>
+      <webElementGuid>6254a724-badf-406c-9d84-211c1afcd5ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/thead/tr/th/span</value>
+      <webElementGuid>834bdf73-c0a2-4aab-8b82-f9c8c557a4a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Records:'])[1]/following::span[1]</value>
+      <webElementGuid>4dbf2333-7a0d-45ab-83d6-713cc1c7de4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter:'])[1]/following::span[1]</value>
+      <webElementGuid>2884565e-309b-4772-8226-cbbac1e4cae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auth Level'])[1]/preceding::span[1]</value>
+      <webElementGuid>34ac2835-1458-437e-b015-bddc4a49985c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>2f5c7f89-9822-4824-84aa-97ca83d2ad77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Role Type']/parent::*</value>
+      <webElementGuid>cb701bc9-623d-42c5-a4cb-77a1c4096473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/span</value>
+      <webElementGuid>caffc335-f748-4518-9496-734a31416075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Role Type' or . = 'Role Type')]</value>
+      <webElementGuid>5055f441-db0d-48dd-882e-3c8fa7fb3614</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

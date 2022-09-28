@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Last Update</name>
+   <tag></tag>
+   <elementGuidId>64a45ba0-c8eb-410e-a3ed-2dca02752d10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/thead/tr/th[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70138b7a-7e95-4aef-a339-1b6034f9e034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VueTables__heading</value>
+      <webElementGuid>f39b0995-1fb4-4eb8-a9a6-1ea7887d2e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Update</value>
+      <webElementGuid>12f2d8b9-07b7-4dfc-923b-3fb0fc4c55b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;m-5&quot;]/div[@class=&quot;VueTables VueTables--client&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table app-table&quot;]/thead[1]/tr[1]/th[@class=&quot;VueTables__sortable&quot;]/span[@class=&quot;VueTables__heading&quot;]</value>
+      <webElementGuid>d7ea8952-8e5a-48b6-a58e-0ece1fb40c15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/thead/tr/th[5]/span</value>
+      <webElementGuid>ae63c40a-8fdb-4042-a1a2-d745a2f37044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[1]/following::span[2]</value>
+      <webElementGuid>2d8b0f43-3151-4fa1-b36a-e06a63913646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[3]</value>
+      <webElementGuid>177a8556-1887-4956-8b05-7cf61f935df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healios'])[1]/preceding::span[3]</value>
+      <webElementGuid>7b71bd40-8c31-44a7-9e6e-1f401fe80b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System'])[1]/preceding::span[4]</value>
+      <webElementGuid>288a437a-9641-4eaf-a9a6-d25d12050b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Last Update']/parent::*</value>
+      <webElementGuid>307ac9d7-3d9b-401d-a771-55277c0d0983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[5]/span</value>
+      <webElementGuid>21f49d99-1a63-408c-a31d-0f97f6d1d3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Last Update' or . = 'Last Update')]</value>
+      <webElementGuid>17d24123-26d2-4f92-9fdd-4e1c43708fb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

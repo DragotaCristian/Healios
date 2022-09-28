@@ -19,17 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.callTestCase(findTestCase('Login/Login - Valid'), [:], FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Healios Platform/button_User Management'))
+WebUI.click(findTestObject('Object Repository/Page_Healios Platform/span_User Management'))
 
 WebUI.click(findTestObject('Object Repository/Page_Healios Platform/a_Roles'))
 
-WebUI.click(findTestObject('Object Repository/Page_Healios Platform/button_New Role'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_Healios Platform/button_New Role'))
 
-WebUI.click(findTestObject('Object Repository/Page_Healios Platform/svg_Role Type_vs__open-indicator'))
-
-WebUI.click(findTestObject('Page_Healios Platform/Role_Healios'))
-
-WebUI.delay(5)
-
-WebUI.closeBrowser()
+WebUI.closeBrowser(FailureHandling.CONTINUE_ON_FAILURE)
 

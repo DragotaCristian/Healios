@@ -6,16 +6,15 @@
    <elementGuidId>a9605189-00e7-4447-9278-411563d62abf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
-         <value>//*[(text() = 'Read Standard Role' or . = 'Read Standard Role')]</value>
+         <key>CSS</key>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//label/span[text()='Read Standard Role']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Read Standard Role' or . = 'Read Standard Role')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -26,10 +25,154 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2926e432-eb0f-4eef-aa68-b54708de9d5b</webElementGuid>
+      <webElementGuid>f22cfcea-14e8-4799-9991-1b2f8b7fd076</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>b7060f4b-7695-4933-ac98-218da460e540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>36f84aae-638a-4ad0-8c3c-7d1a3fc64eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>395d0faa-a0f9-4d0a-8415-9a4b788d3845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>d9114e7c-cc32-42b9-810f-09f8bf0a2e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>3c7ba935-4155-4b4c-bca2-6432cc91569b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>96c1caaa-716c-41b7-bfce-085f75a38191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>a475b9d7-4ccc-4cc0-b8d2-d43722b63707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>71fb3c82-2bba-4fa2-8404-40330aedff8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4dc57c0c-8b41-4695-8c74-57ed91578dd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>66d3fba5-c435-48bf-b947-7dddda3d42aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>863a726e-f868-44c1-9fd8-56ac2c2c4128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f421472-fc13-4411-8050-1d01bad1e497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>a55a7ff3-7f1a-4342-88c9-358dc4229dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>3132f6cb-e9c8-4143-9fe3-5699c80ba06f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bd5043e-531b-4bf9-a68e-eb4b19916b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Standard Role</value>
+      <webElementGuid>4711c650-1615-4981-83c9-fd89d2882f4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__4830&quot;)/div[@class=&quot;custom-control custom-checkbox&quot;]/label[@class=&quot;custom-control-label&quot;]/span[1]</value>
+      <webElementGuid>ece8764b-acc6-4dcf-b96f-205aa430f6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2926e432-eb0f-4eef-aa68-b54708de9d5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -74,7 +217,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__BVID__4830']/div[7]/label/span</value>
-      <webElementGuid>59e128cb-0fc3-4f17-8e8e-6347e6a57be3</webElementGuid>
+      <webElementGuid>0226e002-0941-4017-a656-0c69631ff146</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +225,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Client'])[1]/following::span[1]</value>
-      <webElementGuid>a1a9c464-d888-4463-9e70-1f82ce591487</webElementGuid>
+      <webElementGuid>12f7435f-5461-4a9e-93da-7303f99e8fa1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +233,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Client'])[1]/following::span[2]</value>
-      <webElementGuid>b649bfc4-1857-4eb9-bf6e-54aa1c434f3b</webElementGuid>
+      <webElementGuid>84dc2f84-b75e-49de-9cb3-7f66b22f96d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +241,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Standard Role'])[1]/preceding::span[1]</value>
-      <webElementGuid>1a178e56-ca41-4ded-9c41-5ec29ae4f3f5</webElementGuid>
+      <webElementGuid>4d7ceef7-4e3b-475f-9a58-9c1f8e8a991b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +249,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Study'])[1]/preceding::span[2]</value>
-      <webElementGuid>2c8d2dea-8de0-4950-9921-78734eb801fd</webElementGuid>
+      <webElementGuid>1b24b356-a0a6-412c-af68-a93b32c88224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,7 +257,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/label/span</value>
-      <webElementGuid>c3b82517-f48e-4b76-8a78-6019e6818f3d</webElementGuid>
+      <webElementGuid>9bceaa35-eb87-474d-8efa-7606b2d971d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -122,7 +265,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Read Standard Role' or . = 'Read Standard Role')]</value>
-      <webElementGuid>1ac9e20c-61b9-452e-90d4-ba8a27e2e241</webElementGuid>
+      <webElementGuid>3bc88809-c27d-49f1-8915-5869cfba4229</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -130,7 +273,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__BVID__1374']/div[2]/label/span</value>
-      <webElementGuid>b9a57c4b-1412-4820-b0a6-86f09f22661c</webElementGuid>
+      <webElementGuid>ee4062aa-9837-41ec-90d7-9636027eb430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,7 +281,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Client'])[1]/following::span[1]</value>
-      <webElementGuid>f4228102-eabf-439f-8fd4-87886e1b06b8</webElementGuid>
+      <webElementGuid>8d7fcff0-5ba4-401a-94db-305e20bea83b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -146,7 +289,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[2]/following::span[2]</value>
-      <webElementGuid>58d6aea6-9e09-4cd8-b089-615b9f24e9bd</webElementGuid>
+      <webElementGuid>a1cc3edd-f892-4afa-88f8-fadcfc00270d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -154,7 +297,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Study'])[1]/preceding::span[1]</value>
-      <webElementGuid>76c6a39c-1aa2-440b-aafb-dd2d06737fc8</webElementGuid>
+      <webElementGuid>58ef825d-d8b5-49c5-8868-dc985655c425</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -162,7 +305,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Protocol'])[1]/preceding::span[2]</value>
-      <webElementGuid>a8ac4add-ffb0-42ec-a114-29de225617ac</webElementGuid>
+      <webElementGuid>11648479-c3e8-42ca-a6d1-89384097e0f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -170,7 +313,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label/span</value>
-      <webElementGuid>c2f7424a-1e4f-4c65-a9be-3bd1b466d25f</webElementGuid>
+      <webElementGuid>3b2a27cc-e7e1-469b-a2e7-2e360bfaacaf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -178,7 +321,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[normalize-space()='Read Standard Role']</value>
-      <webElementGuid>11068ee2-ef88-412d-a915-065ad48e744c</webElementGuid>
+      <webElementGuid>46d21329-5062-40fa-a1ef-623ef550c0d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -186,6 +329,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Read Standard Role']/parent::*</value>
-      <webElementGuid>a891d12a-2e6a-4d9b-aafe-4601b32ed63f</webElementGuid>
+      <webElementGuid>d1b86adb-810a-4283-91f3-97b84c492adb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 105.0.0.0,,,2022-09-27 14:09:00,2022-09-27 14:10:00,1m - 0.462s,PASSED
+,,,,,,,
+Test Cases/Login/The Forgot password link leads to Forgot Password page,Chrome 105.0.0.0,,,2022-09-27 14:09:00,2022-09-27 14:09:14,13.927s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-27 14:09:00,2022-09-27 14:09:06,5.100s,PASSED
+"navigateToUrl(""https://data.dev.nexus.dreams.care/login"")",Chrome 105.0.0.0,,,2022-09-27 14:09:06,2022-09-27 14:09:12,6.096s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/a_Forgot password""))",Chrome 105.0.0.0,,,2022-09-27 14:09:12,2022-09-27 14:09:12,0.742s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/h1_Reset Password""), ""Reset Password"")",Chrome 105.0.0.0,,,2022-09-27 14:09:12,2022-09-27 14:09:14,1.491s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-27 14:09:14,2022-09-27 14:09:14,0.123s,PASSED
+,,,,,,,
+Test Cases/Login/Login Page - All needed elements are displayed,Chrome 105.0.0.0,"Login page is displayed
+The ""Login to Healios"" label is displayed
+The ""Email"" label is displayed
+The ""Email"" text box is displayed
+The ""example@email.com"" placeholder in the ""Email"" text box is displayed
+The ""Password"" label is displayed
+The ""Enter your password"" placeholder in the ""Password"" text box is displayed
+The ""eye"" icon in the ""Password"" text box is displayed
+The ""Forgot password?"" link is displayed
+The ""Log In"" button is displayed",,2022-09-27 14:09:14,2022-09-27 14:09:30,15.637s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-27 14:09:14,2022-09-27 14:09:16,1.736s,PASSED
+"navigateToUrl(""https://data.dev.healios.care/login"")",Chrome 105.0.0.0,,,2022-09-27 14:09:16,2022-09-27 14:09:21,5.092s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/h1_Log in to Healios""), ""Log in to Healios"")",Chrome 105.0.0.0,,,2022-09-27 14:09:21,2022-09-27 14:09:22,0.615s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/label_Email""), ""Email"")",Chrome 105.0.0.0,,,2022-09-27 14:09:22,2022-09-27 14:09:22,0.484s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/input_Email_email""), 0)",Chrome 105.0.0.0,,,2022-09-27 14:09:22,2022-09-27 14:09:23,0.455s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/input_Email_email""), """")",Chrome 105.0.0.0,,,2022-09-27 14:09:23,2022-09-27 14:09:23,0.538s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/label_Password""), ""Password"")",Chrome 105.0.0.0,,,2022-09-27 14:09:23,2022-09-27 14:09:24,0.405s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/input_Password___BVID__30""), 0)",Chrome 105.0.0.0,,,2022-09-27 14:09:24,2022-09-27 14:09:24,0.516s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/input_Password___BVID__30""), """")",Chrome 105.0.0.0,,,2022-09-27 14:09:24,2022-09-27 14:09:25,0.398s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/i_Password_far fa-eye eye-icon""), 0)",Chrome 105.0.0.0,,,2022-09-27 14:09:25,2022-09-27 14:09:25,0.490s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/a_Forgot password""), 0)",Chrome 105.0.0.0,,,2022-09-27 14:09:25,2022-09-27 14:09:26,0.545s,PASSED
+"setText(findTestObject(""Object Repository/Page_Healios Platform/input_Email_email""), ""Pasha.madjar@healios.io"")",Chrome 105.0.0.0,,,2022-09-27 14:09:26,2022-09-27 14:09:28,2.343s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Healios Platform/input_Password___BVID__30""), ""2owp8UsT8kUYhon1eM39HA=="")",Chrome 105.0.0.0,,,2022-09-27 14:09:28,2022-09-27 14:09:29,1.085s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Healios Platform/button_Log In""), 0)",Chrome 105.0.0.0,,,2022-09-27 14:09:29,2022-09-27 14:09:29,0.512s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-27 14:09:29,2022-09-27 14:09:30,0.116s,PASSED
+,,,,,,,
+Test Cases/Login/Login - Valid,Chrome 105.0.0.0,,,2022-09-27 14:09:30,2022-09-27 14:09:47,17.821s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-27 14:09:30,2022-09-27 14:09:31,1.433s,PASSED
+"navigateToUrl(""https://data.dev.healios.care/login"")",Chrome 105.0.0.0,,,2022-09-27 14:09:31,2022-09-27 14:09:36,4.757s,PASSED
+"setText(findTestObject(""Object Repository/Page_Healios Platform/input_Email_email""), ""pasha.madjar@healios.io"")",Chrome 105.0.0.0,,,2022-09-27 14:09:36,2022-09-27 14:09:39,2.837s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Healios Platform/input_Password___BVID__30""), ""2owp8UsT8kX703UO1cscOA=="")",Chrome 105.0.0.0,,,2022-09-27 14:09:39,2022-09-27 14:09:40,1.249s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/button_Log In""))",Chrome 105.0.0.0,,,2022-09-27 14:09:40,2022-09-27 14:09:41,0.728s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/div_Welcome Pasha Madjar""), ""Welcome Pasha Madjar!"")",Chrome 105.0.0.0,,,2022-09-27 14:09:41,2022-09-27 14:09:44,3.235s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/span_Home""), ""Home"")",Chrome 105.0.0.0,,,2022-09-27 14:09:44,2022-09-27 14:09:47,3.391s,PASSED
+,,,,,,,
+Test Cases/Login/Login - Invalid User,Chrome 105.0.0.0,,,2022-09-27 14:09:47,2022-09-27 14:10:00,12.592s,PASSED
+"openBrowser("""")",Chrome 105.0.0.0,,,2022-09-27 14:09:48,2022-09-27 14:09:49,1.640s,PASSED
+"navigateToUrl(""https://data.dev.healios.care/login"")",Chrome 105.0.0.0,,,2022-09-27 14:09:49,2022-09-27 14:09:54,4.887s,PASSED
+"setText(findTestObject(""Object Repository/Page_Healios Platform/input_Email_email""), ""pasha_madjar@betteraqa.co"")",Chrome 105.0.0.0,,,2022-09-27 14:09:54,2022-09-27 14:09:57,2.972s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Healios Platform/input_Password___BVID__30""), ""yHWfPLzYTqrgCROth1sRlQ=="")",Chrome 105.0.0.0,,,2022-09-27 14:09:57,2022-09-27 14:09:58,0.922s,PASSED
+"click(findTestObject(""Object Repository/Page_Healios Platform/button_Log In""))",Chrome 105.0.0.0,,,2022-09-27 14:09:58,2022-09-27 14:09:59,0.841s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Healios Platform/div_The user does not exist, or is not active""), ""The user does not exist, or is not active"")",Chrome 105.0.0.0,,,2022-09-27 14:09:59,2022-09-27 14:10:00,0.988s,PASSED
+closeBrowser(),Chrome 105.0.0.0,,,2022-09-27 14:10:00,2022-09-27 14:10:00,0.116s,PASSED

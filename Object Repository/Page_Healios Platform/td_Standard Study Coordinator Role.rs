@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Standard Study Coordinator Role</name>
+   <tag></tag>
+   <elementGuidId>df2821d8-c85a-4563-8dec-d37fefb10def</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/tbody/tr[10]/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>173f11d9-4568-4947-8778-392e04447ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>feec2bec-37ff-4e26-88b3-65c366fe41d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Standard Study Coordinator Role</value>
+      <webElementGuid>4db10649-ea6e-4e22-890f-5914524c8d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;m-5&quot;]/div[@class=&quot;VueTables VueTables--client&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;VueTables__table table app-table&quot;]/tbody[1]/tr[@class=&quot;VueTables__row&quot;]/td[3]</value>
+      <webElementGuid>e6914f37-f3df-490a-b74d-4d86e01216b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div/div[2]/table/tbody/tr[10]/td[3]</value>
+      <webElementGuid>0a185c1c-7964-4f13-8121-d650098e6428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Study'])[1]/following::td[1]</value>
+      <webElementGuid>c50f3bd0-1487-4eb8-9b26-f41c3791ac8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[4]/following::td[2]</value>
+      <webElementGuid>d5a9f1e0-7f22-44c5-a8fd-82e6d4ba8428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[3]/preceding::td[2]</value>
+      <webElementGuid>98194367-d79e-4a44-b925-5ce23163d90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[10]/preceding::td[3]</value>
+      <webElementGuid>874f0687-c00e-4d4e-bece-e9d28db13113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Standard Study Coordinator Role']/parent::*</value>
+      <webElementGuid>8e5257d2-8247-4b9a-9964-439b0e3d7536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[10]/td[3]</value>
+      <webElementGuid>ff1faf04-f635-4ec8-97a7-d265c2bc9422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Standard Study Coordinator Role' or . = 'Standard Study Coordinator Role')]</value>
+      <webElementGuid>fd695a15-f2bf-45fa-bcea-c4c2343aa6ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

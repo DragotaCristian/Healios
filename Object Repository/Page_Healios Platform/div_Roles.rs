@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>03e97ada-8c95-47d9-9d77-92c895bacb12</webElementGuid>
+      <webElementGuid>57696afa-08a1-4bc7-9633-62e3dd501510</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>collapse-1</value>
+      <webElementGuid>e6e2cb3e-56a0-4393-82da-e1ed71527730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 collapse show</value>
+      <webElementGuid>3a657a50-9d3e-43ca-8de8-517defc7ebf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Roles </value>
+      <webElementGuid>377bcb9b-2143-4140-96d8-4d6a946546a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collapse-1&quot;)</value>
+      <webElementGuid>9ffdee77-0ead-47d6-bd9f-647b6d9247a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>03e97ada-8c95-47d9-9d77-92c895bacb12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>a50fef22-a228-4905-86b2-0a4ae0db7767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='collapse-1']</value>
-      <webElementGuid>2bd31938-f1fa-4f63-b214-d8123894dc04</webElementGuid>
+      <webElementGuid>2ed4a420-e7d2-4ca2-bde8-c5ef1f19ef11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sidenav-collapse-main']/ul/li[7]/div</value>
-      <webElementGuid>58dca336-b5d7-4f2f-89df-c3f040503158</webElementGuid>
+      <webElementGuid>814e492e-8f9c-4590-a91d-ddd5444c89f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User Management'])[1]/following::div[1]</value>
-      <webElementGuid>914c1924-9800-45a2-a018-18398144448a</webElementGuid>
+      <webElementGuid>d3a18ba3-dd5c-4ca3-9242-42e48a8efcfd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TOOLS'])[1]/following::div[1]</value>
-      <webElementGuid>743f6fa6-757f-4c80-ae09-bc06d50a91d9</webElementGuid>
+      <webElementGuid>3b45d3df-8b0c-4b00-957a-ff3e88a41f64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Created with Fabric.js 1.7.22'])[1]/preceding::div[1]</value>
-      <webElementGuid>620ee355-8ac2-4a2c-86ee-e3f8a4ddf98c</webElementGuid>
+      <webElementGuid>8983fa4f-be31-42dd-9836-db4a35846585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +142,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[7]/div</value>
-      <webElementGuid>f14a379c-c1c5-42cc-9027-7fa2a9659025</webElementGuid>
+      <webElementGuid>87b92795-eb2c-4733-9fc9-b3851ea2e3a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'collapse-1' and (text() = ' Roles ' or . = ' Roles ')]</value>
-      <webElementGuid>f3e66115-2888-4a50-a771-8b243b6cb2a8</webElementGuid>
+      <webElementGuid>5b73e3ef-3022-4d76-af8f-f49aa0aa0d39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

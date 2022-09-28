@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::h3[1]</value>
+         <value>//h3[@class=&quot;modal-title&quot;]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>607a4c06-6552-47ba-8893-f01f51a46af8</webElementGuid>
+      <webElementGuid>b91e268b-5ab0-4b3f-9b23-4b0b089835f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__BVID__2962___BV_modal_title_</value>
-      <webElementGuid>5e375222-f0e7-4e02-b3fc-3f14384a8af9</webElementGuid>
+      <webElementGuid>a5b901fb-3361-4518-ae7e-6b38298ffeb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>modal-title</value>
-      <webElementGuid>c4b35098-95c9-458d-98ad-f074d7cf5eb9</webElementGuid>
+      <webElementGuid>0bdf4baf-58c4-40cd-b9bd-3410f5585a76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Create new Role</value>
-      <webElementGuid>4077827f-0628-4086-875d-281052cdaa52</webElementGuid>
+      <webElementGuid>c8109c7e-7f4f-4358-9ccb-b8516106f754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__BVID__2962___BV_modal_title_&quot;)</value>
-      <webElementGuid>772083a2-79f1-4f96-86ab-949bae90a735</webElementGuid>
+      <webElementGuid>6980c803-4b9a-4466-8a20-af8a3093d418</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h3[@id='__BVID__2962___BV_modal_title_']</value>
-      <webElementGuid>346cd558-53ab-4031-a167-7314618bc489</webElementGuid>
+      <webElementGuid>13b097aa-f730-401a-aebb-c5c74dcca262</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//header[@id='__BVID__2962___BV_modal_header_']/h3</value>
-      <webElementGuid>3fc4dc82-5c26-462c-bb7c-346d6895577b</webElementGuid>
+      <webElementGuid>60577de3-5030-426c-956b-29a72acae8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', '__BVID__2962', '&quot;', ')')])[1]/following::h3[1]</value>
-      <webElementGuid>481a9187-6c5e-4ab8-b973-087f082ca312</webElementGuid>
+      <webElementGuid>bda34cff-85e4-4e1b-9fef-56dacda22952</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[2]/following::h3[1]</value>
-      <webElementGuid>01482dcb-4357-4f4a-94fd-c9ee6fa4ffe2</webElementGuid>
+      <webElementGuid>b7c5e2f9-97c2-4768-8eb3-3162583439b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Cancel'])[1]/preceding::h3[1]</value>
-      <webElementGuid>2ee2a50b-f6a1-4acb-95d8-83f35a37085f</webElementGuid>
+      <webElementGuid>fd6e6a38-6053-40c6-bc35-1e1b43e841dd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No, Continue'])[1]/preceding::h3[1]</value>
-      <webElementGuid>88779f33-2561-48ca-adf8-11d93a07125b</webElementGuid>
+      <webElementGuid>0aed5a91-6a42-4806-9401-689c54c8a697</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h3</value>
-      <webElementGuid>e4f4fac6-ee53-4528-a3c5-b89763f26a86</webElementGuid>
+      <webElementGuid>c2aa23f1-5a7b-4118-8b85-0f9156f9b649</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[@id = '__BVID__2962___BV_modal_title_' and (text() = 'Create new Role' or . = 'Create new Role')]</value>
-      <webElementGuid>7068e6b8-6bc8-41b7-8f81-7e04e8b057f8</webElementGuid>
+      <webElementGuid>627a041f-ef2c-432b-aa5b-6ffc1fba2a8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

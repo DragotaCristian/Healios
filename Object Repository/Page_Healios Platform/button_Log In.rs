@@ -6,12 +6,12 @@
    <elementGuidId>6fb6a5e0-dbf9-4db6-8d82-5545e4ed0f74</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.btn.rounded-pill.rounded-pill.btn-primary</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.rounded-pill.rounded-pill.btn-primary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>34cf3eb6-e65d-4a2d-85f4-32b0087bda6d</webElementGuid>
+      <webElementGuid>62cd2f5f-3490-45a2-8ed3-3d93e10b0357</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>acd45a84-9d09-4985-a850-137349b0204a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill rounded-pill btn-primary</value>
+      <webElementGuid>04aca897-bfe6-4f63-8714-e6a2612685fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>login-button</value>
+      <webElementGuid>263b70f3-b00f-40a9-9463-092033fcfed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In </value>
+      <webElementGuid>6f769885-d85f-4ac8-aea7-bec91a41c24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[2]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row justify-content-center min-vh-100&quot;]/div[@class=&quot;align-self-center col-7&quot;]/div[@class=&quot;mx-auto w-75&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>d97a20da-df92-43cd-a442-ccae4acddef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>34cf3eb6-e65d-4a2d-85f4-32b0087bda6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +97,7 @@
       <webElementGuid>30f629e1-31ec-48fe-bb89-eecc703e7b66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -790,7 +838,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>62a9d92d-ffda-49bc-a215-87a3f7b3934b</webElementGuid>
+      <webElementGuid>05622863-48e0-4dea-be90-a4c8e0aa8af0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -798,7 +846,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/div[2]/div/div/div/div/div/div/div[5]/div/button</value>
-      <webElementGuid>f39b5eb8-53a7-47ad-af0c-f4c54530c2cc</webElementGuid>
+      <webElementGuid>c4361ad3-1b04-4319-baca-e9f4f6065e7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -806,7 +854,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password?'])[1]/following::button[1]</value>
-      <webElementGuid>45544c65-edde-47ce-ba03-6d137d709a2f</webElementGuid>
+      <webElementGuid>c9d99aa4-2806-4f0f-80cf-65639086e6f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -814,7 +862,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>b19b4fa9-bc05-44b5-ad39-9205cd7f2fb5</webElementGuid>
+      <webElementGuid>b93d8366-787d-46f2-85cb-aaaef95d1c48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -822,7 +870,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
-      <webElementGuid>e96c6789-5c07-4721-b959-0871f292b61b</webElementGuid>
+      <webElementGuid>dd04ce02-6f56-4711-bb0f-f6cb51f57bf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -830,7 +878,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>717b2c33-0b4e-42f8-ac5e-3e042bccc12a</webElementGuid>
+      <webElementGuid>0f7ea76b-c29d-4955-949f-a5df912f941d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -838,6 +886,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Log In ' or . = 'Log In ')]</value>
-      <webElementGuid>747cba9c-5fc4-4faf-92e1-474d21fa9323</webElementGuid>
+      <webElementGuid>f5e057c8-54ad-4651-9e83-f8fe9b93cd60</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

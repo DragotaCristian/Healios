@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e6bfa101-53f2-4daf-a1c3-6d4c03d32584</webElementGuid>
+      <webElementGuid>e44cd203-0569-4c52-8870-a92b96089225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,66 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>7d0e1c5d-574b-4638-9b1e-9a9c686a1c33</webElementGuid>
+      <webElementGuid>dc952936-399c-4120-ac6e-fc2e90d7d58f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your password</value>
+      <webElementGuid>641f2091-7bca-4aee-98ee-fd56963ed351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control bg-transparent</value>
+      <webElementGuid>d72f4f8b-0cbe-4797-a814-b91872e9e199</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>password-input</value>
+      <webElementGuid>59d37093-e83c-4b4d-8ec4-43f5bc3e0594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__BVID__30</value>
+      <webElementGuid>c775b048-569a-42b6-9205-c63fd19f5da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__BVID__30&quot;)</value>
+      <webElementGuid>d147b58e-84c7-4a6e-a234-cbffa0643d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e6bfa101-53f2-4daf-a1c3-6d4c03d32584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>7d0e1c5d-574b-4638-9b1e-9a9c686a1c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -57,7 +113,7 @@
       <webElementGuid>100127d1-813f-4938-be04-cc87eff76f69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -918,7 +974,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='__BVID__30']</value>
-      <webElementGuid>8b6cff68-e6a1-47c2-8a10-aaa37182faf1</webElementGuid>
+      <webElementGuid>51725726-86c8-4af0-b901-4a9f5c505ed0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -926,7 +982,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/div[2]/div/div/div/div/div/div/div[3]/div/div/input</value>
-      <webElementGuid>fb2233ab-dbbf-46e8-ae34-91e2288de5c7</webElementGuid>
+      <webElementGuid>d3222376-a25b-488a-8b9a-cc845e49c0dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -934,7 +990,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/input</value>
-      <webElementGuid>6226faf6-987b-44f5-be9c-a72ee2e65a16</webElementGuid>
+      <webElementGuid>87bdb817-52cf-4642-846f-12ac5c59f479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -942,6 +998,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Enter your password' and @id = '__BVID__30']</value>
-      <webElementGuid>ba65e51e-8e46-42f8-bd4c-2680f21a26d2</webElementGuid>
+      <webElementGuid>540ca454-8766-4ef6-8413-431cf58073a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PermissionsRead Healios UserWrite Heali_6711d6</name>
+   <tag></tag>
+   <elementGuidId>b3f53a1c-44b0-4e62-b161-c476d858789f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div[3]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8cdeb16-0edb-4f14-9b54-e6e040e5b7fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PermissionsRead Healios UserWrite Healios UserRead Healios RoleWrite Healios RoleRead ClientWrite ClientRead Standard RoleWrite Standard RoleRead StudyWrite StudyRead ProtocolWrite ProtocolApprove/Reject ProtocolRead SiteWrite SiteRead ParticipantWrite ParticipantSubjectRead NavigatorRead NavigatorBack Next </value>
+      <webElementGuid>4f09bb6b-5946-4e84-a829-9d110ff41ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]</value>
+      <webElementGuid>fe8a39fe-13e8-4194-b094-f5fdc31b9aa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div[3]/div[2]</value>
+      <webElementGuid>4099d3ee-9f8a-43aa-835b-668720d712f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[1]</value>
+      <webElementGuid>292f9c65-5d59-4ba3-a0bf-92af509c04cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[2]/following::div[3]</value>
+      <webElementGuid>369ff01f-8543-4cb0-a13d-43da48c6c562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]</value>
+      <webElementGuid>4058cba4-de3d-4852-ae00-5078c19c892e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PermissionsRead Healios UserWrite Healios UserRead Healios RoleWrite Healios RoleRead ClientWrite ClientRead Standard RoleWrite Standard RoleRead StudyWrite StudyRead ProtocolWrite ProtocolApprove/Reject ProtocolRead SiteWrite SiteRead ParticipantWrite ParticipantSubjectRead NavigatorRead NavigatorBack Next ' or . = 'PermissionsRead Healios UserWrite Healios UserRead Healios RoleWrite Healios RoleRead ClientWrite ClientRead Standard RoleWrite Standard RoleRead StudyWrite StudyRead ProtocolWrite ProtocolApprove/Reject ProtocolRead SiteWrite SiteRead ParticipantWrite ParticipantSubjectRead NavigatorRead NavigatorBack Next ')]</value>
+      <webElementGuid>4d3e659f-1044-455c-92c0-a2737c5330c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

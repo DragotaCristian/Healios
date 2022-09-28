@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create new Role</name>
+   <tag></tag>
+   <elementGuidId>424cbbd1-d7a6-47d2-82de-9cc6f1e13df0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-white.d-flex.flex-row.justify-content-between.align-items-center.px-5.py-3.border-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e88de73f-5f67-424d-a971-83970d3a8802</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom</value>
+      <webElementGuid>d6169fa4-a925-4ab9-b4a4-037ae4413d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new Role</value>
+      <webElementGuid>ab88c4c0-8dee-4a8c-b851-a4580b057ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white d-flex flex-row justify-content-between align-items-center px-5 py-3 border-bottom&quot;]</value>
+      <webElementGuid>9a7e0eb7-fb8d-4bd3-9c5d-0784a84fd6b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div/div/div/div</value>
+      <webElementGuid>0c209b2d-4487-4113-abca-aac5b412470b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Participant'])[2]/following::div[3]</value>
+      <webElementGuid>854975d2-132e-4982-9024-518c2168c953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::div[3]</value>
+      <webElementGuid>37b7e0b9-a5b0-4fa1-9341-698ef9da0793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role Information'])[1]/preceding::div[5]</value>
+      <webElementGuid>9f6dbfd7-0a15-4722-80be-91941c10a156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>d17adbfe-7683-4330-bfac-2ea4d6760f80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create new Role' or . = 'Create new Role')]</value>
+      <webElementGuid>210d380f-3b43-4fde-b0f2-6a1865f65331</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

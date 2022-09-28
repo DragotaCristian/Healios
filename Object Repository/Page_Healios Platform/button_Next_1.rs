@@ -6,12 +6,11 @@
    <elementGuidId>7f35a163-33c4-42c1-9ce2-9341e6a752f4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[20]</value>
+         <key>CSS</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +21,298 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6640d97-1f4b-4dda-9ace-1a4a28528fc7</webElementGuid>
+      <webElementGuid>89bdb613-7578-42c3-91c2-94ae4035f8aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>467a2f23-0398-4561-bffa-04985be32418</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>0107ab51-5f79-433f-8a3f-c5ed105cba37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>bfc1aae5-5f54-4e7d-bae3-1f6cad4da915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>07dc4f94-0b86-46ef-b1f1-ed00b606d575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>78e74b28-eb57-47a9-9b35-d81c55007269</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08317475-ab0c-4097-aa30-47768e297996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a0183dc-2643-4fcb-87ac-3324859a2e3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>4a898c34-9404-4f21-8aeb-b60b93e90128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>2f2c6fed-0ef6-4d62-ae8e-8538ef0eeaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>3fb4cd18-8e82-4bca-b8e3-bbf8ae30ffeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>578f7054-6eef-40e8-81bd-6f162668ae9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>de793445-b1a8-4369-b939-b30631302287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>faf9b521-a005-43b1-9df7-2334bfeb244b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>c98e333c-a99c-4dc8-8e84-7db93a818f44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>0f366897-d4bb-434d-89a3-544275c97146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>14f29cb8-cba8-49ec-9bb7-a6a8e64e4915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>d922c174-4d68-4369-aeda-426306b0db2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0894789a-4c5c-430d-a408-811a64c52da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d40c690-8573-48be-a176-8f2a64299e12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>ecb8e494-d98b-499f-9749-1f400c1e7f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>f113f145-0e7f-427f-bb63-ea7a2c796883</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>496f11ed-ec27-41b6-8cfb-28ecc0a2da06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>3242f563-78cf-4149-9987-59d180c88c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f99782f4-9e16-48d7-9bf8-8e587cbdf8d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b3677a9-780a-4ef2-bcdb-78467441051a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>11bb51f7-bc23-4ec4-b794-6bc224d53749</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>af3138ed-c3c1-48be-b730-abda3a6989ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>f98ba2dd-15be-4592-a6e9-b26209fc7b76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>5422a296-1f22-4017-903e-b77c3da23dea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b5eea2e5-109b-4d4b-a720-1145eb5ab24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fb5c089e-a697-45ba-9cdb-7d06278f9e98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn rounded-pill btn-primary</value>
+      <webElementGuid>d32f4651-26e2-4fef-b4dd-19d2a8ab3fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>next-button</value>
+      <webElementGuid>d5191024-305b-458a-b158-c647d269d019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next </value>
+      <webElementGuid>44ce6c7d-9c71-4928-8c14-0eba56f22a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;wrapper&quot;]/div[@class=&quot;main-content&quot;]/div[1]/div[@class=&quot;pt-5 px-5&quot;]/div[@class=&quot;bg-white p-5&quot;]/div[2]/div[@class=&quot;row mt-5&quot;]/div[@class=&quot;col&quot;]/button[@class=&quot;btn rounded-pill btn-primary&quot;]</value>
+      <webElementGuid>2c28f2d4-1bd8-4ce9-85c5-4db86bb4c31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6640d97-1f4b-4dda-9ace-1a4a28528fc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -49,7 +336,7 @@
       <webElementGuid>f82b64a1-024c-4809-a939-1ec872aa82e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -118,7 +405,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[20]</value>
-      <webElementGuid>74cf5e82-9208-440c-b7d1-2aeee628a382</webElementGuid>
+      <webElementGuid>1f987c07-5af6-40f3-9eb8-2c28ac0ea007</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +413,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[2]/div/div/div/div[3]/div[2]/div[2]/div/button[2]</value>
-      <webElementGuid>06d8e8d1-f60b-4026-87a5-88bb4a9aa90f</webElementGuid>
+      <webElementGuid>e93b930d-93df-479f-bab4-a8f4e2946545</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +421,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
-      <webElementGuid>a717dda6-37b6-408d-b603-f8745f6f9259</webElementGuid>
+      <webElementGuid>290bf680-382f-4ede-850a-92755ce7c3c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +429,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Read Navigator'])[2]/following::button[2]</value>
-      <webElementGuid>cf0b069a-66d8-4852-b2e0-f4eb27ab9cd1</webElementGuid>
+      <webElementGuid>1e6ad6ba-30de-4235-abef-275c0df97440</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +437,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button[2]</value>
-      <webElementGuid>d0f61156-e209-423e-a8fd-d9c3b9a0c463</webElementGuid>
+      <webElementGuid>cc3de314-eb09-4a80-b5a1-abf34e3257eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +445,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Next ' or . = 'Next ')]</value>
-      <webElementGuid>bd136ba9-2916-456a-9ae4-38daf1c66245</webElementGuid>
+      <webElementGuid>5c555ce7-3bf3-4a63-bd04-0e54d2ff3f8c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
